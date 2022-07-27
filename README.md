@@ -1,2 +1,2 @@
-# Sherlin-java-fsd
+# Sherlin/java-fsd
 Practice-Project
